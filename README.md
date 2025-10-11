@@ -6,6 +6,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sourav171s/Upskill-daily/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
 |  |
@@ -16,6 +17,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sourav171s/Upskill-daily/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
@@ -27,6 +29,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sourav171s/Upskill-daily/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +47,12 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
