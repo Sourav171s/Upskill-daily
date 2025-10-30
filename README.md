@@ -72,4 +72,12 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sourav171s/Upskill-daily/tree/master/3676-smallest-number-with-all-set-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sourav171s/Upskill-daily/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
