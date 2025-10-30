@@ -23,6 +23,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Sourav171s/Upskill-daily/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,12 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sourav171s/Upskill-daily/tree/master/3676-smallest-number-with-all-set-bits) |
+## Simulation
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Sourav171s/Upskill-daily/tree/master/3616-make-array-elements-equal-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Sourav171s/Upskill-daily/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
