@@ -97,6 +97,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sourav171s/Upskill-daily/tree/master/0021-merge-two-sorted-lists) |
+| [0328-odd-even-linked-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
