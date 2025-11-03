@@ -8,6 +8,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | ------- |
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sourav171s/Upskill-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sourav171s/Upskill-daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sourav171s/Upskill-daily/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
@@ -23,6 +24,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sourav171s/Upskill-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sourav171s/Upskill-daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sourav171s/Upskill-daily/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -47,6 +49,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sourav171s/Upskill-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sourav171s/Upskill-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Trie
 |  |
 | ------- |
