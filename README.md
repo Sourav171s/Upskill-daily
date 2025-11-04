@@ -14,6 +14,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0148-sort-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sourav171s/Upskill-daily/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
@@ -57,6 +58,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0148-sort-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Backtracking
 |  |
@@ -101,9 +103,18 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sourav171s/Upskill-daily/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sourav171s/Upskill-daily/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
