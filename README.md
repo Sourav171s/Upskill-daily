@@ -88,11 +88,13 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sourav171s/Upskill-daily/tree/master/0231-power-of-two) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sourav171s/Upskill-daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sourav171s/Upskill-daily/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Sourav171s/Upskill-daily/tree/master/0231-power-of-two) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sourav171s/Upskill-daily/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
@@ -112,6 +114,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sourav171s/Upskill-daily/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Sourav171s/Upskill-daily/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
