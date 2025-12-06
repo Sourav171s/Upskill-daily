@@ -24,6 +24,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | [0036-valid-sudoku](https://github.com/Sourav171s/Upskill-daily/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/Sourav171s/Upskill-daily/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
+| [0137-single-number-ii](https://github.com/Sourav171s/Upskill-daily/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/Sourav171s/Upskill-daily/tree/master/0474-ones-and-zeroes) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
@@ -96,6 +97,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sourav171s/Upskill-daily/tree/master/0029-divide-two-integers) |
+| [0137-single-number-ii](https://github.com/Sourav171s/Upskill-daily/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Sourav171s/Upskill-daily/tree/master/0231-power-of-two) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sourav171s/Upskill-daily/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
