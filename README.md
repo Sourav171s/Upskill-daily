@@ -26,6 +26,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/Sourav171s/Upskill-daily/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
+| [0204-count-primes](https://github.com/Sourav171s/Upskill-daily/tree/master/0204-count-primes) |
 | [0474-ones-and-zeroes](https://github.com/Sourav171s/Upskill-daily/tree/master/0474-ones-and-zeroes) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sourav171s/Upskill-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -90,6 +91,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sourav171s/Upskill-daily/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/Sourav171s/Upskill-daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sourav171s/Upskill-daily/tree/master/0231-power-of-two) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sourav171s/Upskill-daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sourav171s/Upskill-daily/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -127,4 +129,12 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sourav171s/Upskill-daily/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sourav171s/Upskill-daily/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
