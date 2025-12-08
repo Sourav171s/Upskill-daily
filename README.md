@@ -91,6 +91,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sourav171s/Upskill-daily/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Sourav171s/Upskill-daily/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Sourav171s/Upskill-daily/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sourav171s/Upskill-daily/tree/master/0231-power-of-two) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sourav171s/Upskill-daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -120,6 +121,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sourav171s/Upskill-daily/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Sourav171s/Upskill-daily/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Sourav171s/Upskill-daily/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
