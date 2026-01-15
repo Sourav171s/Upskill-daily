@@ -22,6 +22,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sourav171s/Upskill-daily/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Sourav171s/Upskill-daily/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/Sourav171s/Upskill-daily/tree/master/0137-single-number-ii) |
@@ -62,6 +63,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0148-sort-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Backtracking
@@ -76,6 +78,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/Sourav171s/Upskill-daily/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sourav171s/Upskill-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -139,4 +142,12 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sourav171s/Upskill-daily/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
