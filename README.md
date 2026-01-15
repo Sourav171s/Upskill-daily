@@ -31,6 +31,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | [0474-ones-and-zeroes](https://github.com/Sourav171s/Upskill-daily/tree/master/0474-ones-and-zeroes) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sourav171s/Upskill-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2104-sum-of-subarray-ranges](https://github.com/Sourav171s/Upskill-daily/tree/master/2104-sum-of-subarray-ranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sourav171s/Upskill-daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sourav171s/Upskill-daily/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -146,8 +147,10 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/Sourav171s/Upskill-daily/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
+| [2104-sum-of-subarray-ranges](https://github.com/Sourav171s/Upskill-daily/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
