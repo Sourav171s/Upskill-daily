@@ -34,6 +34,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | [2104-sum-of-subarray-ranges](https://github.com/Sourav171s/Upskill-daily/tree/master/2104-sum-of-subarray-ranges) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sourav171s/Upskill-daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sourav171s/Upskill-daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sourav171s/Upskill-daily/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sourav171s/Upskill-daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
@@ -107,6 +108,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | [0029-divide-two-integers](https://github.com/Sourav171s/Upskill-daily/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Sourav171s/Upskill-daily/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Sourav171s/Upskill-daily/tree/master/0231-power-of-two) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sourav171s/Upskill-daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sourav171s/Upskill-daily/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
