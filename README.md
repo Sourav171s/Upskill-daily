@@ -35,6 +35,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sourav171s/Upskill-daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sourav171s/Upskill-daily/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Sourav171s/Upskill-daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sourav171s/Upskill-daily/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Sourav171s/Upskill-daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0148-sort-list) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Sourav171s/Upskill-daily/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Merge Sort
 |  |
 | ------- |
