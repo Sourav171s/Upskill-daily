@@ -78,10 +78,12 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sourav171s/Upskill-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sourav171s/Upskill-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/Sourav171s/Upskill-daily/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sourav171s/Upskill-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -158,4 +160,12 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sourav171s/Upskill-daily/tree/master/2104-sum-of-subarray-ranges) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sourav171s/Upskill-daily/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sourav171s/Upskill-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
