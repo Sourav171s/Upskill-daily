@@ -42,6 +42,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sourav171s/Upskill-daily/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
 ## Matrix
 |  |
@@ -79,6 +80,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | ------- |
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourav171s/Upskill-daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,8 +166,14 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourav171s/Upskill-daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourav171s/Upskill-daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
