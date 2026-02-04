@@ -16,6 +16,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sourav171s/Upskill-daily/tree/master/0148-sort-list) |
+| [0436-find-right-interval](https://github.com/Sourav171s/Upskill-daily/tree/master/0436-find-right-interval) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sourav171s/Upskill-daily/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
@@ -28,6 +29,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | [0137-single-number-ii](https://github.com/Sourav171s/Upskill-daily/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Sourav171s/Upskill-daily/tree/master/0204-count-primes) |
+| [0436-find-right-interval](https://github.com/Sourav171s/Upskill-daily/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/Sourav171s/Upskill-daily/tree/master/0474-ones-and-zeroes) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sourav171s/Upskill-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -53,6 +55,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 ## Binary Search
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/Sourav171s/Upskill-daily/tree/master/0436-find-right-interval) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sourav171s/Upskill-daily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
