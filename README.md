@@ -31,6 +31,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | [0204-count-primes](https://github.com/Sourav171s/Upskill-daily/tree/master/0204-count-primes) |
 | [0436-find-right-interval](https://github.com/Sourav171s/Upskill-daily/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/Sourav171s/Upskill-daily/tree/master/0474-ones-and-zeroes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sourav171s/Upskill-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sourav171s/Upskill-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sourav171s/Upskill-daily/tree/master/2104-sum-of-subarray-ranges) |
@@ -159,24 +160,32 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sourav171s/Upskill-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sourav171s/Upskill-daily/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sourav171s/Upskill-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sourav171s/Upskill-daily/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourav171s/Upskill-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sourav171s/Upskill-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourav171s/Upskill-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sourav171s/Upskill-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sourav171s/Upskill-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
