@@ -1,68 +1,67 @@
 class Solution {
 
-    public static void function(int r,char box[][],List<List<String>> lst,int n){
-        //base case
-        if(r==n){
-            lst.add(construct(box));
-            return ;
-        }
-
-
-        for(int col=0;col<n;col++){
-            if(issafe(r,col,box,n)){
-                box[r][col]='Q';
-                function(r+1,box,lst,n);
-
-                //backtrack
-                box[r][col]='.';
-            }
-        }
-
-    }
-
-
-    public static boolean issafe(int r,int c,char box[][],int n){
-        //col check
-        for(int i=0;i<r;i++){
-            if(box[i][c]=='Q'){
+    public static boolean isValid(int r,int c,char ch[][]){
+        //checking upwards
+        for(int i=r-1;i>=0;i--){
+            if(ch[i][c]=='Q'){
                 return false;
             }
         }
 
-        //left digonal check
-        for(int i=r-1,j=c-1; i>=0 && j>=0 ;i--,j--){
-            if(box[i][j]=='Q'){
+        //checking left
+        for(int i=r-1,j=c-1;i>=0 && j>=0;i--,j--){
+            if(ch[i][j]=='Q'){
                 return false;
             }
         }
 
-        //right digonal
-        for(int i=r-1,j=c+1; i>=0 && j<n ;i--,j++){
-            if(box[i][j]=='Q'){
+        //checking right
+        for(int i=r-1,j=c+1;i>=0 && j<ch.length;i--,j++){
+            if(ch[i][j]=='Q'){
                 return false;
             }
         }
-
         return true;
     }
 
-   public static List<String> construct(char box[][]){
-        List<String> l=new ArrayList<>();
-        for(char x[]:box){
-            // l.add(x.toString());                    if we do this then Java sirf hashcode return karega, not the actual string. 
-            l.add(new String(x));  
-         }
-        return l;
-   }
+    public static void helper(char ch[][],int row,int n,List<List<String>> res){
+        //base case 
+        if(row==n){
+            List<String> l=new ArrayList<>();
+            for(int i=0;i<n;i++){
+                l.add(new String(ch[i]));
+            }
+            res.add(l);
+            return;
+        }
+
+        for(int col=0;col<n;col++){
+            if(isValid(row,col,ch)){
+                ch[row][col]='Q';
+                helper(ch,row+1,n,res);
+
+                //backtracking step
+                ch[row][col]='.';
+            }
+
+
+        }
+
+
+        
+    }
+
+
+
 
 
     public List<List<String>> solveNQueens(int n) {
-        char box[][]=new char[n][n];
+        List<List<String>> res=new ArrayList<>();
+        char ch[][]=new char[n][n];
         for(int i=0;i<n;i++){
-            Arrays.fill(box[i],'.');
+            Arrays.fill(ch[i],'.');
         }
-        List<List<String>> lst=new ArrayList<>(); 
-        function(0,box,lst,n); 
-        return lst;
+        helper(ch,0,n,res);          //here we are sending row check,dots array and res list
+        return res; 
     }
 }
