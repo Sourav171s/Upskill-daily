@@ -23,6 +23,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sourav171s/Upskill-daily/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sourav171s/Upskill-daily/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Sourav171s/Upskill-daily/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Sourav171s/Upskill-daily/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
@@ -44,6 +45,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sourav171s/Upskill-daily/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sourav171s/Upskill-daily/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/Sourav171s/Upskill-daily/tree/master/0139-word-break) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sourav171s/Upskill-daily/tree/master/1612-avoid-flood-in-the-city) |
@@ -51,6 +53,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sourav171s/Upskill-daily/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sourav171s/Upskill-daily/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sourav171s/Upskill-daily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Binary Search
@@ -77,6 +80,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sourav171s/Upskill-daily/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sourav171s/Upskill-daily/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 ## Depth-First Search
