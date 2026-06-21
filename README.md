@@ -88,6 +88,7 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 | ------- |
 | [0079-word-search](https://github.com/Sourav171s/Upskill-daily/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourav171s/Upskill-daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0802-find-eventual-safe-states](https://github.com/Sourav171s/Upskill-daily/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -187,9 +188,18 @@ A daily coding practice log dedicated to mastering data structures, algorithms, 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Sourav171s/Upskill-daily/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sourav171s/Upskill-daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sourav171s/Upskill-daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Sourav171s/Upskill-daily/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Sourav171s/Upskill-daily/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
